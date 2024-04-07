@@ -67,7 +67,8 @@ header a{
 
  section#img1{
    background-image: url(imagens/background001.jpg);
-   background-position: center right;
+   background-size: cover;
+   background-position: right center;
    display: block;
    background-repeat: no-repeat;
   }
@@ -76,6 +77,7 @@ header a{
    background-image: url(imagens/background002.jpg);
    background-position: center right;
    display: block;
+   background-size: cover;
    background-repeat: no-repeat;
   
  }
